@@ -40,7 +40,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Meet Landing Page](https://hannah-ogunyinka.github.io/MeetLandingPage/)
 
 ## My process
